@@ -1,8 +1,6 @@
-# "Simple Weather Application using HTML, CSS &amp; JavaScript"
+# Weather-App
+## Simple Weather Application using HTML, CSS & JavaScript
 
-## Overview of Weather App
+This is a Simple Weather Application made using HTML, CSS, and JavaScript.
 
-It's a  Simple Weather Application made by using HTML, CSS &amp; JavaScript.
-
-The app is created by [Abhishek Jha](https://github.com/Abhi192837/Weather-App/) 
-
+The app is created by [Abhishek Jha](https://github.com/Abhi192837/Weather-App/).
